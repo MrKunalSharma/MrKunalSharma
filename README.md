@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkunalsharma&label=Profile%20views&color=0e75b6&style=flat" alt="mrkunalsharma" /> </p>
 
-- 🔭 I’m currently working on [NetworkOptimizerSNN— A deep learning model to optimize video-based network congestion](https://github.com/MrKunalSharma/NetworkOptimizerSNN.git)
+- 🔭 I'm currently working on [NetworkOptimizerSNN— A deep learning model to optimize video-based network congestion](https://github.com/MrKunalSharma/NetworkOptimizerSNN.git)
 
-- 🌱 I’m currently learning **Advanced DSA (Graph, Segment Trees, DP on Trees) | Deep Learning | SNNs | LLM Fine-tuning**
+- 🌱 I'm currently learning **Advanced DSA (Graph, Segment Trees, DP on Trees) | Deep Learning | SNNs | LLM Fine-tuning**
 
-- 👯 I’m looking to collaborate on **Machine Learning models, real-world DSA use cases, and scalable ML systems**
+- 👯 I'm looking to collaborate on **Machine Learning models, real-world DSA use cases, and scalable ML systems**
 
-- 🤝 I’m looking for help with **Advanced system design for ML deployment and optimizing DSA solutions for contests**
+- 🤝 I'm looking for help with **Advanced system design for ML deployment and optimizing DSA solutions for contests**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1alEtkWqpt29KKi7ay2b3f3Zq7OjcaZxo/view?usp=sharing](https://drive.google.com/file/d/1alEtkWqpt29KKi7ay2b3f3Zq7OjcaZxo/view?usp=sharing)
 
@@ -22,11 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal sharma" height="30" width="40" /></a>
-<a href="https://kaggle.com/kunal_sharma9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kunal_sharma9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-sharma-1a8457257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal sharma" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/kunalsharma9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kunal_sharma9" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/matarani99999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="matarani99999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mark_karm9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mark_karm9" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kunalsharma1wmbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kunalsharma1wmbi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kunalsharma13579kunals/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mark_karm9" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kunalsharma1wmbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kunalsharma1wmbi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
