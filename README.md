@@ -15,7 +15,7 @@
 - 💡 Built production-ready systems: **YOLOv8 Object Detection**, **RAG Document QA**, **Real-time Fraud Detection**
 - 🏆 **LeetCode Knight** (Rating: 1849, Top 5%) | **CodeChef 3⭐** (Rating: 1609)
 - 📫 Reach me at **kunalsharma13579kunals@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1alEtkWqpt29KKi7ay2b3f3Zq7OjcaZxo/view?usp=sharing)
+- 📄 [View My Resume]([https://drive.google.com/file/d/1alEtkWqpt29KKi7ay2b3f3Zq7OjcaZxo/view?usp=sharing](https://drive.google.com/file/d/1kBE32GUzFSkbnZlNmibTAdXMAozmPfZd/view?usp=sharing))
 
 ## 🛠️ Technical Skills
 
@@ -50,7 +50,7 @@
 - Deployed microservices on cloud platforms supporting **100+ concurrent users**
 - **Tech Stack:** YOLOv8, FastAPI, Streamlit, Docker
 
-[Live Demo](https://github.com/MrKunalSharma/cv-defect-detection) | [API Documentation](https://cv-defect-api.onrender.com/docs)
+[Live Demo](https://cv-defect-detection-m3zyjth8vjvwdtpnuoeskn.streamlit.app/) | [GitHub](https://github.com/MrKunalSharma/cv-defect-detection.git)
 
 <br clear="left"/>
 
@@ -83,9 +83,9 @@
 | Platform | Rating | Rank/Achievements | Problems Solved | Profile |
 |----------|--------|------------------|-----------------|---------|
 | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /> | **1849** | Top 5%, Knight Badge | 300+ | [View](https://leetcode.com/u/kunalsharma13579kunals/) |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" /> | **1609** | 3-Star | 115+ | [View](https://www.codechef.com/users/kunalsharma9) |
+| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" /> | **1619** | 3-Star | 115+ | [View](https://www.codechef.com/users/kunalsharma9) |
 | <img src="https://img.shields.io/badge/Code360-00C4CC?style=flat&logo=codingninjas&logoColor=white" /> | **1687** | Top 5% Nationally | 125+ | [View](https://www.naukri.com/code360/profile/d9728e17-d4cd-4d3e-8e0c-c394a913a0b0) |
-| <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white" /> | - | Rank 318 Nationally | 100+ | [View](https://www.geeksforgeeks.org/user/mataran5qug/) |
+| <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white" /> | **1660** | Rank 318 Nationally | 100+ | [View](https://www.geeksforgeeks.org/user/mataran5qug/) |
 
 </div>
 
