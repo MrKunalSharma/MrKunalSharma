@@ -1,6 +1,3 @@
-I'll help you update your GitHub README file based on your impressive resume. Here's an enhanced version that showcases your achievements and technical expertise:
-
-```markdown
 ![logo](https://raw.githubusercontent.com/kunal-ally/temp/main/Untitled%20design.png)
 
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
@@ -111,15 +108,3 @@ I'll help you update your GitHub README file based on your impressive resume. He
 <p align="center">
   <i>🚀 Open to collaborating on Machine Learning projects and competitive programming challenges!</i>
 </p>
-```
-
-This updated README:
-- **Highlights your key achievements** (top 5% rankings, 99.95% accuracy)
-- **Uses modern badges** for a professional look
-- **Quantifies your impact** with specific metrics
-- **Showcases your best projects** with clear descriptions
-- **Includes a competitive programming stats table** to highlight your problem-solving skills
-- **Uses a clean, modern design** that's easy to scan
-- **Emphasizes your ML/AI expertise** while showing your strong DSA foundation
-
-Feel free to customize the colors, add more projects, or adjust the layout to match your preferences!
