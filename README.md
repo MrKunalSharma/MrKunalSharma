@@ -15,7 +15,7 @@
 - 💡 Built production-ready systems: **YOLOv8 Object Detection**, **RAG Document QA**, **Real-time Fraud Detection**
 - 🏆 **LeetCode Knight** (Rating: 1849, Top 5%) | **CodeChef 3⭐** (Rating: 1609)
 - 📫 Reach me at **kunalsharma13579kunals@gmail.com**
-- 📄 [View My Resume]([https://drive.google.com/file/d/1alEtkWqpt29KKi7ay2b3f3Zq7OjcaZxo/view?usp=sharing](https://drive.google.com/file/d/1kBE32GUzFSkbnZlNmibTAdXMAozmPfZd/view?usp=sharing))
+- 📄 [View My Resume]([https://drive.google.com/file/d/1kBE32GUzFSkbnZlNmibTAdXMAozmPfZd/view?usp=sharing])
 
 ## 🛠️ Technical Skills
 
