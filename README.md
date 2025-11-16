@@ -14,6 +14,7 @@
 - 🌱 Learning **MLOps, Deep Learning, SNNs, and Advanced System Design**
 - 💡 Built production-ready systems: **YOLOv8 Object Detection**, **RAG Document QA**, **Real-time Fraud Detection**
 - 🏆 **LeetCode Knight** (Rating: 1849, Top 5%) | **CodeChef 3⭐** (Rating: 1609)
+- 💼 **Portfolio:** [kunal-sharma-portfolio.vercel.app](https://kunal-sharma-portfolio.vercel.app)
 - 📫 Reach me at **kunalsharma13579kunals@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1kBE32GUzFSkbnZlNmibTAdXMAozmPfZd/view?usp=sharing)
 
@@ -76,6 +77,10 @@
 
 <br clear="left"/>
 
+<div align="center">
+  <h3>🌐 View all my projects and more at <a href="https://kunal-sharma-portfolio.vercel.app">My Portfolio</a></h3>
+</div>
+
 ## 🏆 Competitive Programming Stats
 
 <div align="center">
@@ -117,12 +122,12 @@
 
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kunal-sharma-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-sharma-1a8457257)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kunalsharma13579kunals)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kunalsharma9)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kunalsharma9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalsharma13579kunals@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/MrKunalSharma)
 
 </div>
 
