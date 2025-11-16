@@ -1,5 +1,3 @@
-![logo](https://raw.githubusercontent.com/kunal-ally/temp/main/Untitled%20design.png)
-
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">Machine Learning Engineer | Top 5% Competitive Programmer | Building Scalable AI Solutions</h3>
 
